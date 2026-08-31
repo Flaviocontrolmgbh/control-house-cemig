@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.controlhouseprojetos.com.br/sitemap.xml
